@@ -1,0 +1,25 @@
+nav {
+  width: 100%;
+  font-size: 30px;
+  color: yellow;
+  margin-bottom: 50px;
+  background-color: darkblue;
+  height: auto;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+  color: orangered;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 26px 0;
+  width: 25%;
+  text-align: center;
+}
