@@ -4,7 +4,6 @@
   height: 150px;
   margin: 20px;
   position: relative;
-  box-shadow: 4px 4px 10px rgb(121, 39, 39);
   transition: all .2s ease-in-out;
 }
 
